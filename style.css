@@ -134,7 +134,7 @@ body {
 
 .btn:hover::before {
     top: 0;
-    transition: .3s;
+    transition: .5s;
 }
 
 .form-box .logreg-link {
